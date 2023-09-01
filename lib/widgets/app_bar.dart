@@ -190,11 +190,4 @@ final ButtonStyle textButtonStyle = ButtonStyle(
 
     return null;
   }),
-  // side: MaterialStateProperty.resolveWith<BorderSide?>(
-  //     (Set<MaterialState> states) {
-  //   if (states.contains(MaterialState.hovered)) {
-  //     return BorderSide(color: Colors.white, style: BorderStyle.solid);
-  //   }
-  // }),
-  // shape: MaterialStateProperty.all(RoundedRectangleBorder()),
 );
